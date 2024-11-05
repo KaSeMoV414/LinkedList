@@ -1,0 +1,7 @@
+C:\Users\kasem\source\repos\linkedlist\linkedlist\bin\Debug\linkedlist.exe.config
+C:\Users\kasem\source\repos\linkedlist\linkedlist\bin\Debug\linkedlist.exe
+C:\Users\kasem\source\repos\linkedlist\linkedlist\bin\Debug\linkedlist.pdb
+C:\Users\kasem\source\repos\linkedlist\linkedlist\obj\Debug\linkedlist.csproj.AssemblyReference.cache
+C:\Users\kasem\source\repos\linkedlist\linkedlist\obj\Debug\linkedlist.csproj.CoreCompileInputs.cache
+C:\Users\kasem\source\repos\linkedlist\linkedlist\obj\Debug\linkedlist.exe
+C:\Users\kasem\source\repos\linkedlist\linkedlist\obj\Debug\linkedlist.pdb
